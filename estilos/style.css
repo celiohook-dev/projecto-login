@@ -78,3 +78,37 @@ div#formulario>p{
 
 
 }
+   #entrar{
+    display: block;
+    font-size: 1em;
+    width: 100%;
+    height: 40px;
+    background-color: #49a09d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+#entrar:hover{
+    background-color:#2b5c5a ;
+}
+.botao{
+    display: block;
+    text-align: center;
+    font-size: 1em;
+    width: 100%;
+    height: 40px;
+    background-color:#48cec9;;
+    border: 1px soloid #49a09d;
+    color:white;
+    border-radius: 5px;
+    text-decoration: none;
+    padding-top: 5px;
+    margin-top: 5px;
+}
+.botao:hover{
+    background-color: #1e6360;;
+
+}
