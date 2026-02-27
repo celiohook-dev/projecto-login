@@ -41,7 +41,7 @@ section#login{
      transform: translate(-50%, -50%);
     background-color: white;
     width: 250px;
-    height: 500px;
+    height: 540px;
     border-radius: 20px;
     overflow: hidden;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.473);
@@ -75,6 +75,24 @@ div#formulario>h1{
 
 div#formulario>p{
     font-size: 0.8em;
+
+
+}
+
+form label{
+display: none;
+
+}
+
+.campo{
+ background-color: #5f2cb2;
+ display: block;
+ width: 100%;
+ border-radius: 5px;
+ margin: 5px 0px;
+ 
+ 
+
 
 
 }
